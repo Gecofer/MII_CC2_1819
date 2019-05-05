@@ -28,7 +28,7 @@ Puede encontrar los pasos explicados en el PDF.
 1. Iniciar las máquinas virtuales en Azure.
 2. Acceder a ellas mediante SSH.
   - ssh gemazure@40.87.121.16
-  - ssh gemazure@40.76.48.185
+  - ssh gemazure@40.114.73.242
   - ssh gemazure@40.76.48.185
 3. En la máquina con owncloud: `sudo docker run -d -p 80:80 owncloud:latest`
   - Accedemos al navegador: http://40.87.121.16/
