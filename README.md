@@ -1,4 +1,4 @@
-# Cloud Computing: Servicios y Aplicaciones (Curso 2018-19)
+# Cloud Computing: Servicios y Aplicaciones (Curso 18-19)
 
 **Repositorio Github: https://github.com/Gecofer/MII_CC2_1819**
 
