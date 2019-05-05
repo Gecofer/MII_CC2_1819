@@ -2,14 +2,14 @@
 
 **Repositorio Github: https://github.com/Gecofer/MII_CC2_1819**
 
-# Práctica 1: Diseño y despliegue de aplicaciones sobre plataformas cloud
+## Práctica 1: Diseño y despliegue de aplicaciones sobre plataformas cloud
 
 Gema Correa Fernández
 gecorrea@correo.ugr.es
 
 **Repositorio Práctica 1: https://github.com/Gecofer/MII_CC2_1819/tree/master/Práctica%201**
 
-### Ficheros
+#### Ficheros
 
 - recursos.sh: crear el grupo de recursos y la red de las máquinas
 - maquina1-owncloud.sh: crea la máquina virtual para ldap
@@ -21,7 +21,7 @@ gecorrea@correo.ugr.es
 - practica1.pdf: guión de la práctica
 - practica1-GemaCorrea.pdf: memoria de la práctica 1
 
-### Como ejecutar
+#### Como ejecutar
 
 Puede encontrar los pasos explicados en el PDF.
 
