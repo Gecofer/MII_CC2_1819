@@ -1,0 +1,21 @@
+dn: cn=antonio,ou=users,dc=example,dc=org
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: antonio
+uid: antonio
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/antonio
+loginShell: /bin/bash
+gecos: antonio
+userPassword: {crypt}x
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0
+
+dn: cn=practica1,ou=groups,dc=example,dc=org
+changetype: modify
+add: uniqueMember
+uniqueMember: cn=antonio,ou=users,dc=example,dc=org
